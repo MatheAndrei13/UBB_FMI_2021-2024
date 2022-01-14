@@ -1,0 +1,5 @@
+The number of partitions on a set A of 2 elements is 2
+
+Using the notation ∆A = {(a₁, a₁),(a₂, a₂)}, the partitions on a set A = {a₁, a₂} and their corresponding equivalence relations are:
+{{a₁, a₂}} ⇝ A × A
+{{a₁}, {a₂}} ⇝ ∆A

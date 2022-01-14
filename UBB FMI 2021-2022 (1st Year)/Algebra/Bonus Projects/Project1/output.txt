@@ -1,0 +1,8 @@
+The number of partitions on a set A of 3 elements is 5
+
+Using the notation ∆A = {(a₁, a₁),(a₂, a₂),(a₃, a₃)}, the partitions on a set A = {a₁, a₂, a₃} and their corresponding equivalence relations are:
+{{a₁, a₂, a₃}} ⇝ A × A
+{{a₁, a₂}, {a₃}} ⇝ ∆A∪{(a₁, a₂), (a₂, a₁)}
+{{a₁, a₃}, {a₂}} ⇝ ∆A∪{(a₁, a₃), (a₃, a₁)}
+{{a₁}, {a₂, a₃}} ⇝ ∆A∪{(a₂, a₃), (a₃, a₂)}
+{{a₁}, {a₂}, {a₃}} ⇝ ∆A

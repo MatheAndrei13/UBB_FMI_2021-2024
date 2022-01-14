@@ -1,0 +1,4 @@
+The number of bases of the vector space is 1
+
+The vectors of each such basis are:
+((1))

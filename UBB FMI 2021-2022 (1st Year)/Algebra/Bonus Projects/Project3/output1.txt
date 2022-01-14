@@ -1,0 +1,9 @@
+The number of bases of the vector space is 6
+
+The vectors of each such basis are:
+((0, 1), (1, 0))
+((0, 1), (1, 1))
+((1, 0), (0, 1))
+((1, 0), (1, 0))
+((1, 1), (0, 1))
+((1, 1), (1, 0))
